@@ -2,7 +2,7 @@ manifestVersion: 1
 id: decred-dcrdex
 category: Finance
 name: Bison Wallet
-version: "1.0.2"
+version: "1.0.3"
 tagline: Multi-asset cryptocurrency wallet with integrated DEX
 description: >-
   Privacy-focused multi wallet with SPV and full node support.
@@ -16,12 +16,12 @@ dependencies: []
 repo: https://github.com/decred/dcrdex
 support: https://github.com/decred/dcrdex
 port: 5758
-icon: https://raw.githubusercontent.com/peterzen/umbrel-app-store/bisonw-rebrand/decred-dcrdex/images/bison.svg
+icon: https://raw.githubusercontent.com/decred/umbrel-app-store/master/decred-dcrdex/images/bison.svg
 gallery:
-  - https://raw.githubusercontent.com/peterzen/umbrel-app-store/bisonw-rebrand/decred-dcrdex/images/screenshot_1.jpg
-  - https://raw.githubusercontent.com/peterzen/umbrel-app-store/bisonw-rebrand/decred-dcrdex/images/screenshot_2.jpg
-  - https://raw.githubusercontent.com/peterzen/umbrel-app-store/bisonw-rebrand/decred-dcrdex/images/screenshot_3.jpg
-  - https://raw.githubusercontent.com/peterzen/umbrel-app-store/bisonw-rebrand/decred-dcrdex/images/screenshot_4.jpg
+  - https://raw.githubusercontent.com/decred/umbrel-app-store/master/decred-dcrdex/images/screenshot_1.jpg
+  - https://raw.githubusercontent.com/decred/umbrel-app-store/master/decred-dcrdex/images/screenshot_2.jpg
+  - https://raw.githubusercontent.com/decred/umbrel-app-store/master/decred-dcrdex/images/screenshot_3.jpg
+  - https://raw.githubusercontent.com/decred/umbrel-app-store/master/decred-dcrdex/images/screenshot_4.jpg
 path: ""
 defaultUsername: ""
 defaultPassword: ""
